@@ -4,9 +4,9 @@
 **To request the health from subscribers, and report the findings as part of the subscribers history.**
 
 ## API
-| method 	| resource 			| params 				| result 		|
-| ---		| ---				| ---					| ---			|
-| GET 		| /					| N/a 					| TODO 			|
+| method 	| resource 			| params 				| result 	|
+| ---		| ---				| ---					| ---		|
+| GET 		| /				| N/a 					| TODO 		|
 | GET 		| /health 			| N/a 					| none or 200	|
 TODO
 
