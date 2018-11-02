@@ -1,4 +1,5 @@
 # Commuter 🚗 🚗
+[![Build Status](https://travis-ci.org/shadow-IT/Commuter.svg?branch=master)](https://travis-ci.org/shadow-IT/Commuter)
 
 ## Purpose
 **To request the health from subscribers, and report the findings as part of the subscribers history.**
